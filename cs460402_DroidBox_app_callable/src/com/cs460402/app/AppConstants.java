@@ -15,6 +15,6 @@ public final class AppConstants {
 	public static final Class CLASS_MAP = WebViewActivity.class;
 	public static final Class CLASS_PREF = AppPreferencesActivity.class;
 	
-	
+	// this is a huge change
 	
 }
